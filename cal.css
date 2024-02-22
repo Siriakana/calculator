@@ -1,0 +1,49 @@
+body{
+    justify-content: center;
+    align-items: center;
+    background-image: url('cal.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#ti
+{
+    font-size: xx-large;
+    color: rgb(206, 58, 144);
+    font-style: oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table{
+        background-color: rgb(230, 29, 96);
+        color: rgb(59, 48, 59);
+        border-radius: 2px;
+        border: 5px solid rgb(204, 80, 165);
+        border-color: deeppink;
+        size: 100px;
+        padding: 12px 30px;
+
+}
+input{
+    background-color: lightpink;
+    color: rgb(56, 48, 56);
+    border-radius: 2px;
+    border: 5px solid rgb(209, 147, 189);
+    border-color: deeppink;
+    size: 200px;
+    padding:  12px 35px;
+}
+button{
+    background-color: lightpink;
+    color: rgb(53, 47, 52);
+    border-radius: 2px;
+    border: 5px solid rgb(209, 147, 189);
+    border-color: deeppink;
+    size: 100px;
+    padding: 12px 30px;
+
+}
+button:hover {
+    background-color: hotpink;
+    color: rgb(97, 61, 85);
+    cursor: pointer
+  }
